@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+h1 {
+    color:hotpink;
+	font-family: 'Questrial';
+    font-style: oblique;
+    font-size: xx-large;
+    font-weight: 500px;
+    text-align: center;
+	
+}
+	
+p1 {
+	color: darkviolet;
+	font-family: 'Questrial' ;
+	font-size: 20px;
+	text-align: center;
+}
+
+p2 {
+	color: darkviolet;
+	font-family: 'Questrial' ;
+	font-size: 20px;
+	text-align: center;
+	
+}
+
+footer {
+	background-color: darkviolet;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: antiquewhite;
+	text-align: center;	
+	
+	
+}
+
+
+
+
+.footer {
+   position: fixed; 
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: cadetblue;
+   color: black;
+   text-align: center;
+}
+#background-newyork {
+	background-color: bisque
+}
+#black {
+	color: black
+}
+
+.img {
+    float: left;
+    width:  300px;
+    height: 300px;
+    background-size: cover;
+	align-self: center;
+}
+.menu {
+	text-align-last: center;
+	text-decoration-style: solid;
+	text-decoration: underline
+}
+.button {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
+.container{
+	padding: 1px;
+}
+.my-container{
+	padding: 1px;
+}
+
+
